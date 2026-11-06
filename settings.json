@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yousef7c.aternos.me",
-    "port": 45112,
+    "ip": "yousef7c.exaroton.me:18550",
+    "port": 18550,
     "version": "",
     "try-creative": false
   },
